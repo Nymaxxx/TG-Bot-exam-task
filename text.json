@@ -1,0 +1,20 @@
+{
+  "job_1": "Software Development",
+  "job_2": "Data Science", 
+  "job_3": "DevOps", 
+  "job_4": "QA", 
+  "job_5": "Product/Project Management", 
+  "job_6": "System Analyst", 
+  "job_7": "Product Analyst",   
+  "job_8": "Другое", 
+  "soft_1": "JS/Frontend", 
+  "soft_2": "Java / Scala",  
+  "soft_3": "Python",  
+  "soft_4": "C# / .NET",  
+  "soft_5": "Android",  
+  "soft_6": "C/C++",  
+  "soft_7": "Golang",  
+  "soft_8": "PHP"  
+}
+
+
